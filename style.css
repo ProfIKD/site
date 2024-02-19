@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    background: #18ac69;
+    width: 100%;
+    height: 129px;
+    border-bottom: 4px solid #092719;
+    border-bottom: 4px solid #26895c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+
